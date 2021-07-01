@@ -61,7 +61,7 @@ pod --version
 ### 7. React-Native 프로젝트 생성
 
 ```jsx
-npx react-native init SampleApp
+npx react-native init TestApp
 cd SampleApp
 npm run ios // yarn ios , react-native run-ios
 ```
